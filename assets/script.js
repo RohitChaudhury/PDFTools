@@ -1,0 +1,1 @@
+// Frontend scripting of the pages

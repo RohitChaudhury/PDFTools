@@ -1,0 +1,50 @@
+# PDF Tools
+
+PDF Tools is a versatile web application built with Node.js and Express.js, designed to provide efficient PDF file management solutions. Leveraging various npm packages and middleware such as multer, docx-pdf, and pdf-server-js, this application offers a range of features for PDF manipulation.
+
+## Features
+
+- **PDF Merging:** Merge two PDF files into one seamlessly.
+- **Docx to PDF Conversion:** Convert Microsoft Word documents (Docx) to PDF format.
+- **Easy Sharing:** Simplify the process of sharing and distributing PDF documents.
+- **Convenient Management:** Manage and organize PDF files effortlessly.
+
+## Installation
+
+To install PDF Tools locally, follow these steps:
+
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd pdf-tools`
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
+5. Access the application at: `http://localhost:4000`
+
+## Usage
+
+1. **PDF Merging:**
+   - Upload two PDF files.
+   - Click the merge button to combine them into a single PDF.
+
+2. **Docx to PDF Conversion:**
+   - Upload a Microsoft Word document (Docx).
+   - Click the convert button to generate a PDF version.
+
+3. **Easy Sharing:**
+   - Download the merged PDF or converted PDF file.
+   - Share the PDF documents with ease.
+
+## Dependencies
+
+- Node.js
+- Express.js
+- Multer
+- Docx-pdf
+- Pdf-server-js
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the application.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

@@ -1,0 +1,21 @@
+/* Styling of the pages */
+
+.heading {
+    text-shadow: 2px 2px 2px rgb(255, 219, 169);
+}
+
+body {
+    background: linear-gradient(to bottom, #ecfbdd, #b0e6f3);
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Roboto Condensed';
+}
+
+.card {
+    border: 0.2px solid black;
+    border-radius: 15px;
+}
+
+.merge-btn {
+    float: right;
+}
