@@ -18,4 +18,5 @@ const merge_pdf = async (pdf_1, pdf_2) => {
     return randomNumber;
 };
 
+//to export the module
 module.exports = merge_pdf;
